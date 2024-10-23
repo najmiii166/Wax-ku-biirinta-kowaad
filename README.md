@@ -1,6 +1,6 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
-#### _Ku aqri [luqado kale ](translations/Translations.md)._
+#### _Ku aqri [luqado kale ](tarjumaadaha/Tarjumaadaha.md)._
 
 <kbd>[<img title="English" alt="English" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="22">](tarjumaadaha/README.en.md)</kbd>
 
