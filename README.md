@@ -2,7 +2,7 @@
 
 #### _Ku aqri [luqado kale ](translations/Translations.md)._
 
-<kbd>[<img title="English" alt="English" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="22">](translations/README.en.md)</kbd>
+<kbd>[<img title="English" alt="English" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="22">](tarjumaadaha/README.en.md)</kbd>
 
 # Wax ku biirinta koowaad
 
